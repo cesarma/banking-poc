@@ -83,13 +83,13 @@ banking-poc/
 2. **Install Backend Dependencies**
 ```bash
 cd banking-poc/backend
-npm install
+npm install  or npm install --legacy-peer-deps
 ```
 
 3. **Install Frontend Dependencies**
 ```bash
 cd banking-poc/frontend
-npm install
+npm install  or npm install --legacy-peer-deps
 ```
 
 ### Running the Application
